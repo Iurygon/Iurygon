@@ -4,6 +4,6 @@ Me chamo Iury, atualmente tenho 20 anos, e venho estudando Front-end há quase u
 
 Mais sobre mim, entusiasta de games, livros, filmes e séries, principalmente sobre fantasia, apaixonado por cachorros, que curte todo tipo de música, e karateca.
 
-Sinta-se livre para entrar em contato através do meu email(iurygon.silva@gmail.com) e Linkedin(https://www.linkedin.com/in/iury-gontijo-silva/)!
+Sinta-se livre para entrar em contato através do meu email e Linkedin, ambos no card do meu perfil!
 
 [![Iury's GitHub stats](https://github-readme-stats.vercel.app/api?username=iurygon)](https://github.com/anuraghazra/github-readme-stats)
