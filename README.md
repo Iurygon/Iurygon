@@ -17,6 +17,6 @@ Feel free to contact me by my email and Linkedin, both on my profile card!
 
 <div align='center' href='https://github.com/iurygon' >
   
-  <img heigth='100' style='width: 450px, padding: 15px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=iurygon&theme=dark&layout=compact' >
+  <img heigth='100' style='width: 450px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=iurygon&theme=dark&layout=compact' >
   
 </div>
